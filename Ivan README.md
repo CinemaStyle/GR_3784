@@ -1,3 +1,26 @@
+# Home Work for semminar 3.
+
+* *This file being upgraded with some Synchronize commands by Ivan.*
+ #
+ 
+At first I choose the clone repo with https:
+
+`git clone <https://name-of-the-repository-link>`
+
+When I use git pull, it gets the updates from remote repository (git fetch) and immediately applies the latest changes in your local (git merge).
+
+`git pull <remote>`
+
+Usually I use Git push to upload commits to the remote repository.
+
+`git push <remote> <branch-name>`
+
+<br><br>
+
+I guess there is enough changes to complete my HomeWork!
+
+<br><br><br>
+
 # Домашнее задание к семинару 2 о версионности!
 # Создать папку, ветку master как минимум 4 ветки, которые затем слить с мастером. создать архив.
 
