@@ -48,3 +48,5 @@ Git add
 Для удаления ветки ввести команду "git branch -d 'name branch'"
 
     git branch -d 'name branch'
+
+## 10 
