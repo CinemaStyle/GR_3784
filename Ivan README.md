@@ -1,0 +1,48 @@
+# Home Work for semminar 3.
+
+* *This file being upgraded with some Synchronize commands by Ivan.*
+ #
+ 
+At first I choose the clone repo with https:
+
+`git clone <https://name-of-the-repository-link>`
+
+When I use git pull, it gets the updates from remote repository (git fetch) and immediately applies the latest changes in your local (git merge).
+
+`git pull <remote>`
+
+Usually I use Git push to upload commits to the remote repository.
+
+`git push <remote> <branch-name>`
+
+<br><br>
+
+I guess there is enough changes to complete my HomeWork!
+
+<br><br><br>
+
+# Домашнее задание к семинару 2 о версионности!
+# Создать папку, ветку master как минимум 4 ветки, которые затем слить с мастером. создать архив.
+
+* Инструкция для работы с *Git* и удалёнными репозиториями
+Что такое Git?
+
+## Git - это одна из реализаций распределённых систем контроля версий, имеющая как и локальные, так и удалённые репозитории. Является самой популярной реализацией систем контроля версий в мире.
+### Подготовка репозитория
+
+__Для создание репозитория необходимо выполнить команду git init в папке с репозиторием и у Вас создаться репозиторий (появится скрытая папка .git)__
+
+- здесь был создан конфликт с четвертой веткой и теперь его решение
+`Git add`
+
+
+
+Для добавления измений в коммит используется команда git add. Чтобы использовать команду git add напишите git add <имя файла>
+### Просмотр состояния репозитория
+
+Для того, чтобы посмотреть состояние репозитория используется команда _git status_. Для этого необходимо в папке с репозиторием написать **git status**, и Вы увидите были ли измения в файлах, или их не было.
+## Создание коммитов
+
+удаляю просто нафиг все оставшееся... ничего личного - просто обучение.
+ох, - у меня ветка называетсЯ forth вместо fourth /// упсс... сейчас закоммичу и branch -m
+
