@@ -71,7 +71,7 @@
 ## Клонирование удаленного репозитория
 
 * **git clone https://github.com/nata44845/homework3.git** - клонировать
-* **git clone https://github.com/nata44845/homework3.git** gr_3784H3 - клонировать в определенную папку
+* **git clone https://github.com/nata44845/homework3.git gr_3784H3** - клонировать в определенную папку
 
 ## Вытянуть изменения из удаленного репозитория
 
